@@ -37,6 +37,16 @@ Online Retail Dataset (UCI / Kaggle)
 - High-value customers identified
 - Marketing strategy suggested for each segment
 
+## Dataset
+
+The project uses the **Online Retail Dataset** from the UCI Machine Learning Repository / Kaggle.
+
+Due to GitHub file size limitations, the dataset is not included in this repository.
+
+You can download it from:
+- UCI Machine Learning Repository: https://archive.ics.uci.edu/dataset/352/online+retail
+- Or search for "Online Retail Dataset" on Kaggle.
+  
 ## Author
 
 Ashwini Vishwakarma
