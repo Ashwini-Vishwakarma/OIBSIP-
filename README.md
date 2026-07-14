@@ -7,3 +7,5 @@ This repository contains all the projects completed during the Oasis Infobyte In
 ### Data Analytics
 
 - Level 1 - Retail Sales EDA
+- Level 2 - Customer Segmentaion
+  
